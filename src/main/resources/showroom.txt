@@ -1,0 +1,5 @@
+Brand,Model,Condition,Price,Year,Mileage,EngineCapacity,Range
+Toyota,Corolla,USED,15000,2018,30000,1.8,0
+Honda,Civic,NEW,20000,2020,10000,1.5,0
+Ford,Fusion,DAMAGED,10000,2015,80000,2.0,0
+Tesla,Model S,NEW,80000,2022,5000,Electric,350
